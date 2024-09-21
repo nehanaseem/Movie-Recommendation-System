@@ -23,6 +23,9 @@ This project demonstrates the creation of a Content-Based Movie Recommendation S
 
 To get started with this project, follow these steps:
 
+### 📜 Dataset
+The dataset used in this project is from the TMDB 5000 Movie Dataset, containing detailed information about movies including their cast, crew, genres, and more.
+
 ### Clone the repository:
 ```bash
 git clone https://github.com/yourusername/movie-recommendation-system.git
@@ -30,9 +33,7 @@ git clone https://github.com/yourusername/movie-recommendation-system.git
 pip install -r requirements.txt
 ### Run the Jupyter notebook:
 jupyter notebook movie_recommendation_system.ipynb
+```bash
 
-# 📜 Dataset
-The dataset used in this project is from the TMDB 5000 Movie Dataset, containing detailed information about movies including their cast, crew, genres, and more.
-
-# 🤝 Contributing
+### 🤝 Contributing
 Feel free to contribute to the project by submitting a pull request. Any ideas or improvements are welcome!
