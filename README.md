@@ -31,8 +31,8 @@ pip install -r requirements.txt
 ### Run the Jupyter notebook:
 jupyter notebook movie_recommendation_system.ipynb
 
-## 📜 Dataset
+### 📜 Dataset
 The dataset used in this project is from the TMDB 5000 Movie Dataset, containing detailed information about movies including their cast, crew, genres, and more.
 
-## 🤝 Contributing
+### 🤝 Contributing
 Feel free to contribute to the project by submitting a pull request. Any ideas or improvements are welcome!
