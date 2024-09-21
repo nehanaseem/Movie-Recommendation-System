@@ -24,6 +24,11 @@ This project demonstrates the creation of a Content-Based Movie Recommendation S
 ### Clone the repository:
 ```bash
 git clone https://github.com/yourusername/movie-recommendation-system.git
+## Install the required packages:
+pip install -r requirements.txt
+## Run the Jupyter notebook:
+jupyter notebook movie_recommendation_system.ipynb
+
 
 📊 Visualizations
 Top Genres Distribution: Bar chart representing the most frequent genres.
